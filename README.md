@@ -4,4 +4,3 @@ Projeto do 7DaysOfCode que ensina a fazer CRUD com Javascript
 Participantes:
 
 - Gelson Nobre
-- Lucas Junio
